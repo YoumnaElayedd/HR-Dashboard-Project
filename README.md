@@ -25,16 +25,19 @@ This structure enables flexible and detailed reporting across various HR metrics
 1. **Overview Dashboard**: 
    - Displays high-level HR metrics, including total employees, average salary, and department distributions.
    - Visuals showing employee counts by age category, education level, marital status, and business travel frequency.
+     
      ![Overview Dashboard](Overview.png)
 
 2. **Performance Dashboard**:
    - Focuses on employee performance metrics, including ratings per department, average performance scores, and distribution of training opportunities.
    - Detailed views on performance ratings based on travel and satisfaction level.
+     
      ![Performance Dashboard](Performance.png)
 
 3. **Attrition Dashboard**:
    - Provides insights into employee attrition rates, attrition trends over time, and attrition segmented by age, department, and business travel status.
    - Visuals depicting the distribution of attrition by marital status and distance from the workplace.
+     
      ![Attrition Dashboard](Attrition.png)
 
 ### DAX Measures
